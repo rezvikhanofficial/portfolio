@@ -11,7 +11,7 @@
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap');
         
-        :root {
+        : root {
             --neon-blue: #3b82f6;
             --dark-bg: #020617;
             --card-bg: #0f172a;
